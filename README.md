@@ -6,5 +6,5 @@
 - 🤔 I am available to discuss projects
 - 📫 How to reach me: https://www.linkedin.com/in/kenny-tanchaleune/
 
-- ⚡ Fun fact: I started in the field of electronics, and now I love Python...
+- ⚡ Fun fact: I started in the field of embedded systems, and now I love Python programming...
 
